@@ -3,7 +3,7 @@ public class PsuedocodePrac {
 
 	public static void main(String[] args) {
 
-		//Subtract two numbers 
+//Subtract two numbers 
 		
 //Start
 		//Input: Num1 - Num2; 
@@ -15,7 +15,7 @@ public class PsuedocodePrac {
 		
 		
 	//	int i = 5;
-	// int k = 3;
+	//  int k = 3;
 		
 	//	int difference = i - k;
 	//	System.out.println(difference);

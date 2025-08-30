@@ -8,6 +8,7 @@ insertionSort(A);
 System.out.print(Arrays.toString(A));
 System.out.println();
 System.out.println("My code has ran!");
+System.out.println("No way???");
 }
 
 static void insertionSort(int [] A) {
